@@ -4,11 +4,11 @@
 
 # SkillScout - AI Recruitment SaaS
 
-> Math ranks. AI explains. Humans decide.
+> Math ranks. AI explains. You decide.
 
 <p align="center">
-  <a href="https://github.com/Paaarthiv/AI-recruitment-SaaS/actions/workflows/ci.yml">
-    <img src="https://github.com/Paaarthiv/AI-recruitment-SaaS/actions/workflows/ci.yml/badge.svg" alt="CI status" />
+  <a href="https://github.com/Axwathy/SkillScout/actions/workflows/ci.yml">
+    <img src="https://github.com/Axwathy/SkillScout/actions/workflows/ci.yml/badge.svg" alt="CI status" />
   </a>
   <img src="https://img.shields.io/badge/license-MIT-EB4425.svg" alt="License: MIT" />
   <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js 16" />
@@ -139,8 +139,8 @@ wiki/             LLM-maintained project knowledge base
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Paaarthiv/AI-recruitment-SaaS.git
-cd AI-recruitment-SaaS
+git clone https://github.com/Axwathy/SkillScout.git
+cd SkillScout
 ```
 
 ### 2. Configure environment variables
@@ -261,6 +261,7 @@ pre-commit run --all-files
 | System overview | [raw/architecture/system-overview.md](raw/architecture/system-overview.md) |
 | Backend architecture | [raw/architecture/backend-architecture.md](raw/architecture/backend-architecture.md) |
 | Frontend architecture | [raw/architecture/frontend-architecture.md](raw/architecture/frontend-architecture.md) |
+| Development setup | [raw/architecture/development-setup.md](raw/architecture/development-setup.md) |
 | Environment variables | [raw/architecture/environment-variables.md](raw/architecture/environment-variables.md) |
 | Authentication strategy | [raw/architecture/cookie-auth-strategy.md](raw/architecture/cookie-auth-strategy.md) |
 | API design | [raw/apis/api-design.md](raw/apis/api-design.md) |
@@ -311,4 +312,4 @@ Recommended workflow:
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) Parthiv A M.
+Released under the [MIT License](LICENSE). Copyright (c) Aswathy S.
