@@ -1,0 +1,40 @@
+{
+  "name": "ai-recruitment-saas-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@tanstack/react-query": "5.80.6",
+    "axios": "1.16.1",
+    "clsx": "2.1.1",
+    "lucide-react": "0.468.0",
+    "next": "16.2.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-dropzone": "^15.0.0",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.29",
+    "@types/react": "18.3.23",
+    "@types/react-dom": "18.3.7",
+    "autoprefixer": "10.4.21",
+    "eslint": "9.32.0",
+    "eslint-config-next": "16.2.6",
+    "postcss": "8.5.10",
+    "prettier": "3.5.3",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.8.3"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}
